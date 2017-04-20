@@ -1,4 +1,4 @@
-# GanazAdmin
+# GanazDashboard
 Web dashboard for Ganaz Admin.
 ## Login
 ![login screen](screenshot/ganaz-admin-login.jpg?raw=true "Login")
